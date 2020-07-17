@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="CBA6DC71-6E27-4ADC-9291-52126D4D1780" version="0">
+	<info>
+		<title>Computer Quiz</title>
+		<description/>
+	</info>
+	<files index="id27" thumbnail="id23" totalSize="4284946">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/3c26-5d99-5e5c-91db.png</file>
+		<file id="id10">data/images/7306-e4bc-5aea-b085.png</file>
+		<file id="id11">data/images/d54b-1e05-adf5-56b6.png</file>
+		<file id="id12">data/images/dfcc-92a5-d207-6f6b.png</file>
+		<file id="id13">data/images/img-35c60c2c232adfa3d4bf69170d164dfe81b527ce.PNG</file>
+		<file id="id14">data/images/img-379733ce3dbad31eb604160a39f86003b68247ac.jpg</file>
+		<file id="id15">data/images/img-4585451e28e6833a71dfc1c9a7458563e3cbe6da.jpg</file>
+		<file id="id16">data/images/img-76ae922def46ccff03cc8a226cf09a89df1744bc.jpg</file>
+		<file id="id17">data/images/img-7c52aca4a12a7a12cdbd98649e182d77f39c19fa.PNG</file>
+		<file id="id18">data/images/img-cd8eb2c97ebc69a3dafe7b06d32504ccb784aeb9.jpg</file>
+		<file id="id19">data/images/img-f70fe637186e72065fa135156d79a2ffc0026ce0.png</file>
+		<file id="id20">data/images/img-fbd27987fc1734d82bcce8a83fadca856d166392.png</file>
+		<file id="id21">data/ismplayer/app_store2x.png</file>
+		<file id="id22">data/ismplayer/play.svg</file>
+		<file id="id23">data/ismplayer/preview.png</file>
+		<file id="id24">data/ismplayer/style.css</file>
+		<file id="id25">data/ismplayer/style_mini.css</file>
+		<file id="id26">data/player.js</file>
+		<file id="id27">index.html</file>
+		<file id="id28">ismplayer.html</file>
+		<file id="id29">preview.png</file>
+	</files>
+</presentation>
+
